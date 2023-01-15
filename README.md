@@ -1,1 +1,2 @@
-# matlab-programming-and-numerical-method
+因为正好上课用Matlab所以理一下
+但这门课不是编程课...
